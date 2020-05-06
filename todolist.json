@@ -1,0 +1,25 @@
+[
+    {
+        "task": "Interview new recruits",
+        "department": "HR",
+        "time": "10:00am"
+    },
+
+    {
+        "task": "Daily Data Backup",
+        "department": "IT",
+        "time": "9:00pm"
+    },
+
+    {
+        "task": "Prepare sales report",
+        "department": "Sales",
+        "time": "4:00pm"
+    },
+
+    {
+        "task": "Dispatch",
+        "department": "Transport",
+        "time": "10:00am"
+    }
+]
